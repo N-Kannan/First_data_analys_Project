@@ -1,13 +1,12 @@
+
 <h1 align="center">Hi 👋,MY First Cloud MYSQL Server</h1>
 
-## Overview
+<h2> First I crated my Compartment instances</h2>
 
-  `Data Analyes`
-
-```python
-import ffmpeg
-stream = ffmpeg.input('input.mp4')
-stream = ffmpeg.hflip(stream)
-stream = ffmpeg.output(stream, 'output.mp4')
-ffmpeg.run(stream)
-```
+  - Specification OS-Canonical Ubuntu,shapes- Ampere(4 OCPU &24 GB of RAM),
+  - After create a SSH Key For Security (Genereted in PuttyGen),
+  - Boot volume Specify a custom boot volume size(200GB),
+  - After Click Craete Button. Wait 2 Minit to allocate and creating the Instence.
+  
+  <h2> Configer My Cloud Machine </h2>
+  
